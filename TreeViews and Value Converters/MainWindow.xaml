@@ -1,0 +1,54 @@
+﻿<Window x:Class="TreeViews_and_Value_Converters.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TreeViews_and_Value_Converters"
+        Loaded="Window_Loaded"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        
+        <!-- Creating a TreeView called FolderView -->
+        <TreeView x:Name="FolderView">
+
+               <!-- Declaring the TreeView resources -->
+            <TreeView.Resources>
+
+                <!-- The TreeView will contain objects of type TreeViewItem -->
+                <Style TargetType="{x:Type TreeViewItem}">
+
+                    <!-- Setting properties of the TreeView, the data of the HeaderTemplate comes directly from the Header itself-->
+                    <Setter Property="HeaderTemplate">
+                         
+                        <!-- Setting the values for the Setter -->
+                        <Setter.Value>
+                            
+                            <!-- The DataTemplate for the Setter -->
+                            <DataTemplate>
+                                
+                                <!-- A horizontal StackPanel with an image and TextBlock-->
+                                <StackPanel Orientation="Horizontal">
+
+                                    <Image Width="20" Margin="3" Source="Images/drive.png" />
+                                       
+                                    <!-- Directly binding the TextBlock to the header itself -->
+                                    <TextBlock VerticalAlignment="Center" Text="{Binding}" />
+
+                                </StackPanel>
+
+                            </DataTemplate>
+                            
+                        </Setter.Value>
+                        
+                    </Setter>
+                   
+                </Style>
+                
+            </TreeView.Resources>
+            
+        </TreeView>
+        
+    </Grid>
+    
+</Window>

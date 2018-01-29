@@ -1,0 +1,15 @@
+c:\users\rmangerie\source\repos\TreeViews and Value Converters\TreeViews and Value Converters\bin\Debug\TreeViews and Value Converters.exe.config
+c:\users\rmangerie\source\repos\TreeViews and Value Converters\TreeViews and Value Converters\bin\Debug\TreeViews and Value Converters.exe
+c:\users\rmangerie\source\repos\TreeViews and Value Converters\TreeViews and Value Converters\bin\Debug\TreeViews and Value Converters.pdb
+c:\users\rmangerie\source\repos\TreeViews and Value Converters\TreeViews and Value Converters\obj\Debug\TreeViews and Value Converters.csprojResolveAssemblyReference.cache
+c:\users\rmangerie\source\repos\TreeViews and Value Converters\TreeViews and Value Converters\obj\Debug\MainWindow.g.cs
+c:\users\rmangerie\source\repos\TreeViews and Value Converters\TreeViews and Value Converters\obj\Debug\App.g.cs
+c:\users\rmangerie\source\repos\TreeViews and Value Converters\TreeViews and Value Converters\obj\Debug\TreeViews and Value Converters_MarkupCompile.cache
+c:\users\rmangerie\source\repos\TreeViews and Value Converters\TreeViews and Value Converters\obj\Debug\TreeViews and Value Converters_MarkupCompile.lref
+c:\users\rmangerie\source\repos\TreeViews and Value Converters\TreeViews and Value Converters\obj\Debug\MainWindow.baml
+c:\users\rmangerie\source\repos\TreeViews and Value Converters\TreeViews and Value Converters\obj\Debug\TreeViews and Value Converters.g.resources
+c:\users\rmangerie\source\repos\TreeViews and Value Converters\TreeViews and Value Converters\obj\Debug\TreeViews_and_Value_Converters.Properties.Resources.resources
+c:\users\rmangerie\source\repos\TreeViews and Value Converters\TreeViews and Value Converters\obj\Debug\TreeViews and Value Converters.csproj.GenerateResource.Cache
+c:\users\rmangerie\source\repos\TreeViews and Value Converters\TreeViews and Value Converters\obj\Debug\TreeViews and Value Converters.csproj.CoreCompileInputs.cache
+c:\users\rmangerie\source\repos\TreeViews and Value Converters\TreeViews and Value Converters\obj\Debug\TreeViews and Value Converters.exe
+c:\users\rmangerie\source\repos\TreeViews and Value Converters\TreeViews and Value Converters\obj\Debug\TreeViews and Value Converters.pdb
