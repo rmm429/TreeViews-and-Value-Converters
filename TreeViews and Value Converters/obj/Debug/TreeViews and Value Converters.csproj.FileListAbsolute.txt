@@ -13,3 +13,18 @@ c:\users\rmangerie\source\repos\TreeViews and Value Converters\TreeViews and Val
 c:\users\rmangerie\source\repos\TreeViews and Value Converters\TreeViews and Value Converters\obj\Debug\TreeViews and Value Converters.csproj.CoreCompileInputs.cache
 c:\users\rmangerie\source\repos\TreeViews and Value Converters\TreeViews and Value Converters\obj\Debug\TreeViews and Value Converters.exe
 c:\users\rmangerie\source\repos\TreeViews and Value Converters\TreeViews and Value Converters\obj\Debug\TreeViews and Value Converters.pdb
+D:\Ricky\Documents\GitHub\TreeViews-and-Value-Converters\TreeViews and Value Converters\bin\Debug\TreeViews and Value Converters.exe.config
+D:\Ricky\Documents\GitHub\TreeViews-and-Value-Converters\TreeViews and Value Converters\bin\Debug\TreeViews and Value Converters.exe
+D:\Ricky\Documents\GitHub\TreeViews-and-Value-Converters\TreeViews and Value Converters\bin\Debug\TreeViews and Value Converters.pdb
+D:\Ricky\Documents\GitHub\TreeViews-and-Value-Converters\TreeViews and Value Converters\obj\Debug\TreeViews and Value Converters.csprojResolveAssemblyReference.cache
+D:\Ricky\Documents\GitHub\TreeViews-and-Value-Converters\TreeViews and Value Converters\obj\Debug\MainWindow.g.cs
+D:\Ricky\Documents\GitHub\TreeViews-and-Value-Converters\TreeViews and Value Converters\obj\Debug\App.g.cs
+D:\Ricky\Documents\GitHub\TreeViews-and-Value-Converters\TreeViews and Value Converters\obj\Debug\TreeViews and Value Converters_MarkupCompile.cache
+D:\Ricky\Documents\GitHub\TreeViews-and-Value-Converters\TreeViews and Value Converters\obj\Debug\TreeViews and Value Converters_MarkupCompile.lref
+D:\Ricky\Documents\GitHub\TreeViews-and-Value-Converters\TreeViews and Value Converters\obj\Debug\MainWindow.baml
+D:\Ricky\Documents\GitHub\TreeViews-and-Value-Converters\TreeViews and Value Converters\obj\Debug\TreeViews and Value Converters.g.resources
+D:\Ricky\Documents\GitHub\TreeViews-and-Value-Converters\TreeViews and Value Converters\obj\Debug\TreeViews_and_Value_Converters.Properties.Resources.resources
+D:\Ricky\Documents\GitHub\TreeViews-and-Value-Converters\TreeViews and Value Converters\obj\Debug\TreeViews and Value Converters.csproj.GenerateResource.Cache
+D:\Ricky\Documents\GitHub\TreeViews-and-Value-Converters\TreeViews and Value Converters\obj\Debug\TreeViews and Value Converters.csproj.CoreCompileInputs.cache
+D:\Ricky\Documents\GitHub\TreeViews-and-Value-Converters\TreeViews and Value Converters\obj\Debug\TreeViews and Value Converters.exe
+D:\Ricky\Documents\GitHub\TreeViews-and-Value-Converters\TreeViews and Value Converters\obj\Debug\TreeViews and Value Converters.pdb

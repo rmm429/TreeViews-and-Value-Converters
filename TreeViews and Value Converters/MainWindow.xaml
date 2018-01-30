@@ -30,7 +30,11 @@
                                 <!-- A horizontal StackPanel with an image and TextBlock-->
                                 <StackPanel Orientation="Horizontal">
 
-                                    <Image Width="20" Margin="3" Source="Images/drive.png" />
+                                    <Image Width="20" Margin="3" 
+                                           Source="{Binding 
+                                                RelativeSource={RelativeSource Mode=FindAncestor, AncestorType={x:Type TreeViewItem}},
+                                                Path=Tag,
+                                                Converter={x:Static local:HeaderToImageConverter.Instance}}" />
                                        
                                     <!-- Directly binding the TextBlock to the header itself -->
                                     <TextBlock VerticalAlignment="Center" Text="{Binding}" />
